@@ -1,4 +1,5 @@
-![FB_IMG_1662764468859](https://github.com/YAMI-SOUL/YAMI-SOUL/assets/140236365/c330b4f4-d069-4fdb-838a-d47de7c1bb69)
+![0001-9860574603_20211013_004702_٠٠٠٠](https://github.com/YAMI-SOUL/never-click-on-it/assets/140236365/d069fc9a-314e-4442-be1d-31de549fef12)
+
 
 <h1 align="center">Hi 👋, I'm Yami</h1>
 <h3 align="center">Anonymous Backend Developer from nowhere +-+</h3>
@@ -7,8 +8,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yami-soul" alt="yami-soul" /></a> </p>
 
-- 🔭 I’m currently working on **nothing**
-
+- 🔭 I’m currently working on
+- 
 - 🌱 I’m currently learning **Boooooooooring Django 😩**
 
 - 👯 I’m looking to collaborate on **nothing**
