@@ -8,17 +8,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yami-soul" alt="yami-soul" /></a> </p>
 
-- 🔭 I’m currently working on
-- 
+- 🔭 I’m currently working on **nothing**
 - 🌱 I’m currently learning **Boooooooooring Django 😩**
 
 - 👯 I’m looking to collaborate on **nothing**
 
 - 🤝 I’m looking for help with **nothing**
 
-- 👨‍💻 All of my projects are available at [I haven't any project now](I haven't any project now)
+- 👨‍💻 All of my projects are available at **nowhere**
 
-- 📝 I regularly write articles on [are you joking ?! article 🤮](are you joking ?! article 🤮)
+- 📝 I regularly write articles on **are you joking ?! article 🤮**
 
 - 💬 Ask me about **don't ask me anything**
 
