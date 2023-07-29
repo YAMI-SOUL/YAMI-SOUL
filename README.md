@@ -37,6 +37,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yami-soul&show_icons=true&locale=en" alt="yami-soul" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yami-soul&" alt="y
-
-     ami-soul" /></p>
-
+ami-soul" /></p>
