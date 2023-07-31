@@ -1,12 +1,13 @@
-![0001-9860574603_20211013_004702_٠٠٠٠](https://github.com/YAMI-SOUL/never-click-on-it/assets/140236365/d069fc9a-314e-4442-be1d-31de549fef12)
-
 
 <h1 align="center">Hi 👋, I'm Yami</h1>
 <h3 align="center">Anonymous Backend Developer from nowhere +-+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yami-soul&label=Profile%20views&color=0e75b6&style=flat" alt="yami-soul" /> </p>
+![0001-9860574603_20211013_004702_٠٠٠٠](https://github.com/YAMI-SOUL/never-click-on-it/assets/140236365/d069fc9a-314e-4442-be1d-31de549fef12)
+ 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yami-soul" alt="yami-soul" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yami-soul&label=Profile%20views&color=0e75b6&style=flat" alt="yami-soul" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yami-soul" alt="yami-soul" /></a> </p>
 
 - 🔭 I’m currently working on **nothing**
 - 🌱 I’m currently learning **Boooooooooring Django 😩**
@@ -34,7 +35,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yami-soul&show_icons=true&locale=en&layout=compact" alt="yami-soul" /></p>
 
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yami-soul&show_icons=true&locale=en" alt="yami-soul" /></p>
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yami-soul&" alt="y
 ami-soul" /></p>
